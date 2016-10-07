@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Daka</string>
+    <string name="service_name">Daka_service</string>
+    <string name="auto_reply_description">This is my daka service</string>
+</resources>
